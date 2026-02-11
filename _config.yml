@@ -4,9 +4,5 @@ url: "https://0xardy.github.io"
 baseurl: ""
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  syntax_highlighter_opts:
-    # Auto-detect language for fenced code blocks with no explicit language.
-    guess_lang: true
 permalink: /:year/:month/:day/:title/
 timezone: "UTC"
