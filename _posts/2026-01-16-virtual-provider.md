@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Virtual Provider"
+title: "Lightweight E2E Provider for Web3 DApps"
 ---
-
-# Proposal: Lightweight E2E Provider for Web3 DApps
 
 ## Executive Summary
 
@@ -149,11 +147,6 @@ export const config = createConfig({
       ],
 });
 ```
-
-✅ No browser extension
-✅ No HTTP interception
-✅ No mocks needed
-✅ Pure Anvil execution
 
 ## Final Result
 
