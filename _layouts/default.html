@@ -10,7 +10,7 @@
     {% assign meta_description = page.description | default: page.excerpt | default: site.description %}
     {% assign meta_description = meta_description | strip_html | strip_newlines | normalize_whitespace | truncate: 160 %}
     {% assign canonical_url = page.url | absolute_url %}
-    {% assign og_image = page.og_image | default: '/assets/images/og-panda-bamboo.png' %}
+    {% assign og_image = page.og_image | default: site.og_image | default: '/assets/images/og-panda-bamboo.png' %}
     {% assign og_image_url = og_image | absolute_url %}
     {% if page.collection == 'posts' %}
       {% assign og_type = 'article' %}

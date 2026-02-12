@@ -2,7 +2,15 @@ title: "Ardy's Blog"
 description: "Ardy's Blog"
 url: "https://0xardy.github.io"
 baseurl: ""
+og_image: "/assets/images/og-panda-bamboo.png"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 timezone: "UTC"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      og_image: "/assets/images/og-panda-bamboo.png"
