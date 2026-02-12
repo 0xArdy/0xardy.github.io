@@ -21,8 +21,8 @@ For decentralized products, this matters because hosting is often the weakest li
 
 There are many moments where frontend decentralization is not optional:
 
-- **Provider outage concentration:** In Nov 2025, a major [Cloudflare incident](https://coincentral.com/cloudflare-outage-disrupts-20-of-internet-takes-down-major-crypto-platforms/) reportedly impacted a large share of internet traffic and disrupted access to multiple crypto frontends while chains kept producing blocks.
-- **Cloud DNS/control-plane failures:** In Oct 2025, an [AWS outage](https://es.euronews.com/next/2025/10/20/una-caida-global-de-aws-provoca-fallos-en-redes-sociales-juegos-online-y-aplicaciones) tied to DNS resolution issues disrupted global apps (including crypto interfaces) without halting underlying protocols.
+- **Provider outage concentration:** In Nov 2025, a major [Cloudflare incident](https://coincentral.com/cloudflare-outage-disrupts-20-of-internet-takes-down-major-crypto-platforms/) reportedly impacted a large share of internet traffic and disrupted access to multiple dApps.
+- **Cloud DNS/control-plane failures:** In Oct 2025, an [AWS outage](https://es.euronews.com/next/2025/10/20/una-caida-global-de-aws-provoca-fallos-en-redes-sociales-juegos-online-y-aplicaciones) tied to DNS resolution issues disrupted global apps.
 - **Regulatory frontend takedowns:** [OFAC's 2022 Tornado Cash sanctions](https://home.treasury.gov/news/press-releases/jy0916) targeted its web/domain access layer; even before [2025 delisting](https://www.reuters.com/business/finance/us-scraps-sanctions-tornado-cash-crypto-mixer-accused-laundering-north-korea-2025-03-21/), contract code existing onchain did not guarantee practical user access.
 
 If users cannot access the interface, protocol-level decentralization is not enough in practice.
