@@ -3,6 +3,7 @@ description: ""
 url: "https://0xardy.github.io"
 baseurl: ""
 og_image: "/assets/images/og-panda-bamboo.png"
+twitter_username: "0xardy"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
