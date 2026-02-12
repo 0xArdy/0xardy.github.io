@@ -3,8 +3,6 @@ layout: post
 title: "Lightweight E2E Provider for Web3 DApps"
 ---
 
-## Executive Summary
-
 This proposal outlines a lightweight, dependency-free solution for E2E testing in Dapps. By replacing heavy browser automation frameworks and real wallet extensions with a custom **EIP-1193 Ethereum Provider**, we can achieve deterministic, high-performance tests that run natively in standard frameworks like Cypress or Playwright.
 
 ## Problem Statement
