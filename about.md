@@ -6,4 +6,4 @@ permalink: /about/
 
 # About
 
-Hey, I'm **Ardy** (0xardy). Welcome to my blog.
+Hi! Do you want a coffee? ☕
