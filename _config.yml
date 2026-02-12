@@ -2,7 +2,7 @@ title: "Ardy's Blog"
 description: ""
 url: "https://0xardy.github.io"
 baseurl: ""
-og_image: "/assets/images/og-panda-bamboo.png"
+og_image: "/assets/images/og-panda-bamboo-x-card.png"
 twitter_username: "0xardy"
 markdown: kramdown
 highlighter: rouge
@@ -14,4 +14,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      og_image: "/assets/images/og-panda-bamboo.png"
+      og_image: "/assets/images/og-panda-bamboo-x-card.png"
